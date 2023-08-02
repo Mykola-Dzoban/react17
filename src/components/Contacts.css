@@ -1,0 +1,20 @@
+.filters{
+  display: flex;
+  flex-direction: column;
+}
+.byInfo{
+  display: flex;
+  gap: 5px;
+  padding: 5px;
+}
+.byGender{
+  display: flex;
+  gap: 5px;
+  padding: 5px;
+}
+.contacts-wrapper{
+  display: flex;
+}
+.search input{
+  width: 300px;
+}
